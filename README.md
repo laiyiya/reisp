@@ -23,3 +23,4 @@ BlockMatchFusion整理过程与Nlm非局部均值滤波类似，Sad使用L1范�
 
 # 致谢
 参考https://github.com/jhfmat/ISP-pipeline-hdrplus
+google paper: Burst photography for high dynamic range and low-light imaging on mobile cameras
