@@ -16,7 +16,7 @@ BlockMatchFusion整理过程与Nlm非局部均值滤波类似，Sad使用L1范�
 ### Demosic
 结合Hamilton and Adams原理，考虑梯度方向。
 ### ToneMapping
-参考《exposure fusion》论文，结合图像金字塔，虚拟曝光融合从而实现ToneMapping
+参考《exposure fusion》论文，结合高斯、阿普拉斯金字塔，虚拟曝光融合从而实现ToneMapping
 
 
 
