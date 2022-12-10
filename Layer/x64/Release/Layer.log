@@ -1,0 +1,405 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+cl : 命令行 warning D9002: 忽略未知选项“/arch:SSE”
+  HDRPlus_BlackLevelCorrect.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_BlackLevelCorrect.h(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_BlackLevelCorrect.cpp(12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  HDRPlus_ChromaDenoise.cpp
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_ChromaDenoise.cpp(14): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(27): warning C4244: “=”: 从“float”转换到“unsigned short”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(48): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(80): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(85): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(91): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(96): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(101): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(103): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+HDRPlus_ChromaDenoise.cpp(104): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  HDRPlus_ColorCorrect.cpp
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_ColorCorrect.h(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_ColorCorrect.cpp(17): warning C4244: “=”: 从“float”转换到“short”，可能丢失数据
+  HDRPlus_Contrast.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_Contrast.h(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_Contrast.cpp(22): warning C4244: “初始化”: 从“float”转换到“long”，可能丢失数据
+HDRPlus_Contrast.cpp(23): warning C4244: “=”: 从“long”转换到“unsigned short”，可能丢失数据
+  HDRPlus_Demosaicing.cpp
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+HDRPlus_Demosaicing.cpp(28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  HDRPlus_DPCorrect.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_DPCorrect.h(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_DPCorrect.cpp(20): warning C4018: “>=”: 有符号/无符号不匹配
+HDRPlus_DPCorrect.cpp(152): warning C4101: “pInLines”: 未引用的局部变量
+  HDRPlus_Forward.cpp
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\..//Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_WhiteBalance.h(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_DPCorrect.h(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_BlackLevelCorrect.h(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_ColorCorrect.h(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_Tonemapping.h(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_GammaCorrect.h(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\HDRPlus_ChromaDenoise.h(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_Contrast.h(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_Sharpen.h(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\HDRPlus_Forward.h(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  HDRPlus_GammaCorrect.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_GammaCorrect.h(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_GammaCorrect.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_GammaCorrect.cpp(13): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_GammaCorrect.cpp(14): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_GammaCorrect.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_GammaCorrect.cpp(22): warning C4244: “=”: 从“float”转换到“long”，可能丢失数据
+HDRPlus_GammaCorrect.cpp(26): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+HDRPlus_GammaCorrect.cpp(28): warning C4244: “=”: 从“long”转换到“unsigned short”，可能丢失数据
+  HDRPlus_Sharpen.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_Sharpen.h(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+  HDRPlus_Tonemapping.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_Tonemapping.h(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_Tonemapping.cpp(120): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+HDRPlus_Tonemapping.cpp(129): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+HDRPlus_Tonemapping.cpp(11): warning C4101: “Y”: 未引用的局部变量
+HDRPlus_Tonemapping.cpp(16): warning C4101: “intMeanV”: 未引用的局部变量
+HDRPlus_Tonemapping.cpp(144): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+HDRPlus_Tonemapping.cpp(183): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_Tonemapping.cpp(184): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_Tonemapping.cpp(185): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_Tonemapping.cpp(186): warning C4305: “初始化”: 从“double”到“float”截断
+HDRPlus_Tonemapping.cpp(194): warning C4244: “=”: 从“float”转换到“__int64”，可能丢失数据
+HDRPlus_Tonemapping.cpp(198): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+HDRPlus_Tonemapping.cpp(200): warning C4244: “=”: 从“__int64”转换到“unsigned short”，可能丢失数据
+HDRPlus_Tonemapping.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(237): warning C4244: “=”: 从“float”转换到“__int64”，可能丢失数据
+HDRPlus_Tonemapping.cpp(241): warning C4244: “=”: 从“float”转换到“__int64”，可能丢失数据
+HDRPlus_Tonemapping.cpp(243): warning C4244: “=”: 从“__int64”转换到“unsigned short”，可能丢失数据
+HDRPlus_Tonemapping.cpp(323): warning C4244: “=”: 从“float”转换到“unsigned short”，可能丢失数据
+HDRPlus_Tonemapping.cpp(324): warning C4244: “=”: 从“float”转换到“unsigned short”，可能丢失数据
+HDRPlus_Tonemapping.cpp(419): warning C4018: “<”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(419): warning C4018: “>”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(420): warning C4018: “>”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+HDRPlus_Tonemapping.cpp(421): warning C4018: “>”: 有符号/无符号不匹配
+  HDRPlus_WhiteBalance.cpp
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(42): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(49): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(53): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 参见“sscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(72): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(108): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(227): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(300): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(339): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(341): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(361): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+d:\desktop\reisp\layer\../Mat/WeightConfig.h(396): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\desktop\reisp\layer\HDRPlus_WhiteBalance.h(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+HDRPlus_WhiteBalance.cpp(24): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+HDRPlus_WhiteBalance.cpp(26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Layer.vcxproj -> D:\Desktop\reisp\x64\Release\Layer.lib
