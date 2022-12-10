@@ -3,6 +3,6 @@
 
 #pipeline
 
-![image](reisp/Pic/isp pipeline.jpg)
+![image](https://github.com/laiyiya/reisp/tree/main/Pic)
 # 致谢
 参考https://github.com/jhfmat/ISP-pipeline-hdrplus
