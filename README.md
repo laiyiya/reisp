@@ -12,7 +12,7 @@ BlockMatchFusion整理过程与Nlm非局部均值滤波类似，Sad使用L1范�
 ### AWB
 
 ### RAWDenoise
-小波降噪，采用harr小波变换，采用硬阈值收缩降噪，小波反变换
+小波降噪，采用harr小波变换，采用阈值收缩降噪，小波反变换
 ### Demosic
 结合Hamilton and Adams原理，考虑梯度方向。
 ### ToneMapping
