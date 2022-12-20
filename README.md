@@ -12,9 +12,9 @@ BlockMatchFusion整理过程与Nlm非局部均值滤波类似，Sad使用L1范�
 ### AWB
 结合先验知识的自动白平衡，在A、U30、D50、D65等光源下标定并制作色温曲线，分块统计RAW图的R/G、B/G均值、去除异常点后结合色温曲线计算AWB Gain参数。
 ### RAWDenoise
-从RAW域转换至YUVH域，将图像分块进行多次harr小波变换，取低频LL图像结合空域滤波再小波反变换，重复多次后将YUVH域转至RAW域
+采用灰阶图卡进行噪声标定，从RAW域转换至YUVH域，将图像分块进行多次harr小波变换，取低频LL图像结合空域滤波再小波反变换，空域滤波参数结合噪声标定结果调整，重复多次后将YUVH域转至RAW域
 ### Demosic
-结合Hamilton and Adams原理，考虑梯度方向。
+结合Hamilton and Adams原理，考虑梯度方向。将Raw图分别按横向纵向插值计算出(B+R+2G)/4,(B+R-2G)/4,(B-R)/2,deltaG共4通道信息，分别表示了低频与高频信息。由于横纵向插值的G不同求平均后进一步得到高频的水平和垂直的梯度信息。将梯度图分块最终加权平均确定每个点的梯度方向，以此作为修正项调整插值。
 ### ToneMapping
 参考《exposure fusion》论文，结合高斯、阿普拉斯金字塔，虚拟曝光融合从而实现ToneMapping
 
