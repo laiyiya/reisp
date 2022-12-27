@@ -1,5 +1,5 @@
 # Reisp
-基于opencv/c++，以google hdrplus为backbone进行拓展，采用openmp与none技术加速完整设计isp pipeline
+基于OpenCV/C++，以Google HDRPlus为backbone进行拓展，采用OpenMP与Neon技术加速，完整设计ISP pipeline
 
 # Pipeline说明
 
