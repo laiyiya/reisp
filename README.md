@@ -5,6 +5,8 @@
 
 ![pipeline](https://github.com/laiyiya/reisp/blob/main/Pic/isp%20pipeline.jpg)
 
+### Getsharpness 
+将Raw图四像素RGGB合并成Y图并经过Gamma变换提示亮度。根据不同Gain插值计算出边缘阈值参数EdgeThre，将Y图高斯平滑后使用水平垂直差分算子减去EdgeThre后得到梯度图，梯度图求和并排序，sharpness值最大的raw图即为后续GlobalAlignment的参考帧。
 ### GlobalAlignment
 采用harris角点计算raw图的各角点，以角点附近领域为特征描述符，使用暴力匹配模式对特征描述符进行匹配，结合匹配后的角点计算单应矩阵Homography，进而图像对齐。
 ### BlockMatchFusion
