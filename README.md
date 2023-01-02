@@ -1,7 +1,14 @@
 # Reisp
 基于OpenCV/C++，以Google HDRPlus为backbone进行拓展，采用OpenMP与Neon技术加速，完整设计ISP pipeline
 
-# Pipeline说明
+## OpenMP 
+常用指令
+* #pragma omp parallel for num_threads(thread_count)多线程并行执行下面的for循环。
+* #pragma omp parallel for num_threads(thread_count) private(tmp)多线程并行执行下面的for循环，每一个线程都是拥有tmp私有变量，所有的线程都不会使用到先前的定义。
+* #pragma omp parallel for num_threads(thread_count) firstprivate(tmp) 多线程并行执行下面的for循环，每一个线程都是拥有tmp私有变量，只会在每个线程的第一个循环继承，而不会在每个循环中继承。
+* #pragma omp parallel for num_threads(thread_count) lastprivate(tmp) 多线程并行执行下面的for循环，lastprivate选项告诉编辑器私有变量会在最后一个循环出去的时候，用私有变量的值替换掉我们共享变量的值；
+* #pragma omp parallel for reduction(+:sum) 下面的for循环要分成多个线程运行，但每个线程都要保存一个自己的变量sum在循环结束后，所有线程把自己的sum累加起来作为最后的sum输出。
+* #pragma omp parallel for num_threads(thread_count) schedule(dynamic,2)下面的for循环要分成多个线程运行，动态调度：在循环执行过程中，边执行边分配每个线程，平衡每个线程的运行时间。
 
 ![pipeline](https://github.com/laiyiya/reisp/blob/main/Pic/isp%20pipeline.jpg)
 
