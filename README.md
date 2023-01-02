@@ -10,6 +10,11 @@
 * #pragma omp parallel for reduction(+:sum) 下面的for循环要分成多个线程运行，但每个线程都要保存一个自己的变量sum在循环结束后，所有线程把自己的sum累加起来作为最后的sum输出。
 * #pragma omp parallel for num_threads(thread_count) schedule(dynamic,2)下面的for循环要分成多个线程运行，动态调度：在循环执行过程中，边执行边分配每个线程，平衡每个线程的运行时间。
 
+## Neon
+常用指令
+
+
+## ISPPipeline说明
 ![pipeline](https://github.com/laiyiya/reisp/blob/main/Pic/isp%20pipeline.jpg)
 
 ### DigitalGain 
