@@ -5,6 +5,8 @@
 
 ![pipeline](https://github.com/laiyiya/reisp/blob/main/Pic/isp%20pipeline.jpg)
 
+### DigitalGain 
+比较MeanY与目标亮度TargetY估算DigiGain大小。将Raw分4x4=16块并乘上对应不同权重加权平均得到MeanYr，MeanYgr，MeanYgb，MeanYb，引入保留高光部分gain参数highlevelGainThr，考虑CameraGain、MaxToalGain、MaxDigiGain、highlevelGainThr，选择最佳的DigitalGain。
 ### Getsharpness 
 将Raw图四像素RGGB合并成Y图并经过Gamma变换提示亮度。根据不同Gain插值计算出边缘阈值参数EdgeThre，将Y图高斯平滑后使用水平垂直差分算子减去EdgeThre后得到梯度图，梯度图求和并排序，sharpness值最大的raw图即为后续GlobalAlignment的参考帧。
 ### GlobalAlignment
